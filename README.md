@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/82799287?v=4" alt="Jaton Justice" width="200"
-    style="border-radius: 50%;" />
-</p>
 
-<div align="center">
-  <span style="font-size: 2em; font-weight: bold;">Jaton Justice</span>
 
+<h3 align="center">Solution/Software developer for over 15 years with specialities in Automation, Cyber Security, web
+  frameworks</h3>
+  
+  <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/jaton-justice" target="blank">
       <img
@@ -37,12 +35,10 @@
         alt="YouTube" height="30" width="40" />
     </a>
   </p>
-  <hr />
 </div>
 
 
-<h3 align="center">Solution/Software developer for over 15 years with specialities in Automation, Cyber Security, web
-  frameworks</h3>
+
 
 
 <p align="center">
@@ -123,20 +119,26 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       <a href="https://github.com/Masterjx9/socialmediascheduler" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=socialmediascheduler"
           alt="socialmediascheduler" 
-          width="400" />
+          width="400"
+          height="400"
+           />
       </a>
     </td>
     <td>
       <a href="https://github.com/Masterjx9/ScrnSave" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=ScrnSave" alt="ScrnSave"
-        width="464" />
+        width="400"
+          height="400"
+           />
       </a>
     </td>
     <td>
       <a href="https://github.com/Masterjx9/Outlook-Addin-TaskPane-python" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Outlook-Addin-TaskPane-python"
           alt="Outlook Add-in Python"
-          width="400" />
+          width="400"
+          height="400"
+           />
       </a>
     </td>
   </tr>
@@ -145,20 +147,26 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       <a href="https://github.com/Masterjx9/YoutubeTVParty" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=YoutubeTVParty"
           alt="YoutubeTVParty"
-          width="400" />
+          width="400"
+          height="400"
+           />
       </a>
     </td>
     <td>
       <a href="https://github.com/Masterjx9/vgmify" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=vgmify" alt="vgmify"
-        width="400" />
+        width="400"
+          height="400"
+           />
       </a>
     </td>
     <td>
       <a href="https://github.com/Masterjx9/VgmifyRoku" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=VgmifyRoku"
           alt="VgmifyRoku"
-          width="400" />
+          width="400"
+          height="400"
+           />
       </a>
     </td>
   </tr>
@@ -167,20 +175,26 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       <a href="https://github.com/Masterjx9/Google-News-Filter" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Google-News-Filter"
           alt="Google News Filter"
-          width="400" />
+          width="400"
+          height="400"
+           />
       </a>
     </td>
     <td>
       <a href="https://github.com/Masterjx9/AppFizzle" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=AppFizzle" alt="AppFizzle"
-        width="464" />
+        width="400"
+          height="400"
+           />
       </a>
     </td>
     <td>
       <a href="https://github.com/Masterjx9/Flask-Embed" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Flask-Embed"
           alt="Flask-Embed"
-          width="462" />
+          width="400"
+          height="400"
+           />
       </a>
     </td>
   </tr>
@@ -188,12 +202,16 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
     <td colspan="3" align="center">
       <a href="https://github.com/Masterjx9/Fleact" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Fleact" alt="Fleact"
-        width="400" />
+        width="400"
+          height="400"
+           />
       </a>
       <a href="https://github.com/Masterjx9/revealmyid" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=revealmyid"
           alt="revealmyid"
-          width="500" />
+          width="400"
+          height="400"
+           />
       </a>
     </td>
   </tr>
