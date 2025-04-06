@@ -120,7 +120,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=socialmediascheduler"
           alt="socialmediascheduler" 
           width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -128,7 +128,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       <a href="https://github.com/Masterjx9/ScrnSave" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=ScrnSave" alt="ScrnSave"
         width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -137,7 +137,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Outlook-Addin-TaskPane-python"
           alt="Outlook Add-in Python"
           width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -148,7 +148,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=YoutubeTVParty"
           alt="YoutubeTVParty"
           width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -156,7 +156,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       <a href="https://github.com/Masterjx9/vgmify" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=vgmify" alt="vgmify"
         width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -165,7 +165,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=VgmifyRoku"
           alt="VgmifyRoku"
           width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -176,7 +176,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Google-News-Filter"
           alt="Google News Filter"
           width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -184,7 +184,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       <a href="https://github.com/Masterjx9/AppFizzle" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=AppFizzle" alt="AppFizzle"
         width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -193,7 +193,7 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Flask-Embed"
           alt="Flask-Embed"
           width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
@@ -203,14 +203,14 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       <a href="https://github.com/Masterjx9/Fleact" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=Fleact" alt="Fleact"
         width="400"
-          height="400"
+          height="150"
            />
       </a>
       <a href="https://github.com/Masterjx9/revealmyid" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masterjx9&repo=revealmyid"
           alt="revealmyid"
           width="400"
-          height="400"
+          height="150"
            />
       </a>
     </td>
