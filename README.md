@@ -4,38 +4,52 @@
   frameworks</h3>
   
   <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/jaton-justice" target="blank">
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.credly.com/users/jaton-justice/badges" target="blank">
-      <img src="https://cdn.simpleicons.org/credly/FF6B00"
-        alt="Credly" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/18192997/pythonkiddiescripterx" target="blank">
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="Stack Overflow" height="30" width="40" />
-    </a>
-    <a href="https://www.threads.com/@jatonjustice" target="blank">
-      <img
-        src="https://cdn.simpleicons.org/threads/000000"
-        alt="Threads" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/jatonjustice/" target="blank">
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="Instagram" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@JatonJustice" target="blank">
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-        alt="YouTube" height="30" width="40" />
-    </a>
-  </p>
-</div>
+    <table>
+      <tr>
+        <td>
+          <a href="https://www.linkedin.com/in/jaton-justice" target="blank">
+            <img
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+              alt="LinkedIn" height="30" width="40" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.credly.com/users/jaton-justice/badges" target="blank">
+            <img src="https://cdn.simpleicons.org/credly/FF6B00"
+              alt="Credly" height="30" width="40" />
+          </a>
+        </td>
+        <td>
+          <a href="https://stackoverflow.com/users/18192997/pythonkiddiescripterx" target="blank">
+            <img
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+              alt="Stack Overflow" height="30" width="40" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.threads.com/@jatonjustice" target="blank">
+            <img
+              src="https://cdn.simpleicons.org/threads/000000"
+              alt="Threads" height="30" width="40" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.instagram.com/jatonjustice/" target="blank">
+            <img
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+              alt="Instagram" height="30" width="40" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.youtube.com/@JatonJustice" target="blank">
+            <img
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+              alt="YouTube" height="30" width="40" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 
 
 
