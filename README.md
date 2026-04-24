@@ -11,7 +11,7 @@
         alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.credly.com/users/jaton-justice/badges" target="blank">
-      <img src="https://images.credly.com/size/400x400/images/32d4008d-1fa0-4a79-8375-4857b0306dc5/blob.png"
+      <img src="https://cdn.simpleicons.org/credly/FF6B00"
         alt="Credly" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/18192997/pythonkiddiescripterx" target="blank">
@@ -19,10 +19,10 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
         alt="Stack Overflow" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/JatonJustice" target="blank">
+    <a href="https://www.threads.com/@jatonjustice" target="blank">
       <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="Twitter" height="30" width="40" />
+        src="https://cdn.simpleicons.org/threads/000000"
+        alt="Threads" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/jatonjustice/" target="blank">
       <img
@@ -77,8 +77,8 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
 <table align="center">
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=RDL2BWfq43Q" target="_blank">
-        <img src="https://img.youtube.com/vi/RDL2BWfq43Q/0.jpg" alt="Video 1" width="300" />
+      <a href="https://www.youtube.com/watch?v=5sVIhhwx3Yk" target="_blank">
+        <img src="https://img.youtube.com/vi/5sVIhhwx3Yk/0.jpg" alt="Video 1" width="300" />
       </a>
     </td>
     <td>
@@ -94,8 +94,8 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
   </tr>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=7JUYpHTV0q4" target="_blank">
-        <img src="https://img.youtube.com/vi/7JUYpHTV0q4/0.jpg" alt="Video 4" width="300" />
+      <a href="https://www.youtube.com/watch?v=-aGhOf6hYGQ" target="_blank">
+        <img src="https://img.youtube.com/vi/-aGhOf6hYGQ/0.jpg" alt="Video 3" width="300" />
       </a>
     </td>
     <td>
@@ -109,11 +109,18 @@ CompTIA IT Operations Specialist – CIOS Stackable Certification" width="100" /
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://www.youtube.com/@JatonJustice" target="_blank">
+        <img src="https://img.youtube.com/vi/7JUYpHTV0q4/0.jpg" alt="Video 7" width="300" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masterjx9&theme=onedark&row=1&column=7" />
+  <img src="https://trophy.benkou.dev/?username=masterjx9&theme=onedark&row=1&column=7" />
 </p>
 
 
